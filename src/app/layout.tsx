@@ -1,10 +1,9 @@
 import { ThemeProvider } from '@/app/providers'
 import { WEBSITE_HOST_URL } from '@/lib/constants'
 import type { Metadata } from 'next'
-import Link from 'next/link'
 import './global.css'
 import Header from '@/layout/header'
-import { Container } from '@/components/Container'
+import { Container } from '@/components/container'
 import Footer from '@/layout/footer'
 
 const meta = {

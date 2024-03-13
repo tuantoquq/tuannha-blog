@@ -1,4 +1,4 @@
-import { Container } from '@/components/Container'
+import { Container } from '@/components/container'
 import { Navigation } from '@/components/navigation'
 import Profile from '@/components/profile'
 import ThemeSwitch from '@/components/theme-switch'
