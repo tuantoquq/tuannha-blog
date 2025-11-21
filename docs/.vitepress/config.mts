@@ -9,7 +9,34 @@ export default defineConfig({
   head: [
     [
       'link',
-      { rel: 'icon', href: '/logo.png', sizes: '64x64', type: 'image/png' },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: '/favicon-32.png',
+      },
+    ],
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '64x64',
+        href: '/favicon-64.png',
+      },
+    ],
+    [
+      'link',
+      { rel: 'apple-touch-icon', sizes: '180x180', href: '/favicon-180.png' },
+    ],
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '512x512',
+        href: '/favicon-512.png',
+      },
     ],
   ],
   themeConfig: {
