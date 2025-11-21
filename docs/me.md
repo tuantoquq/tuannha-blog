@@ -18,7 +18,6 @@ I’m a software engineer who loves building reliable platforms and sharing less
 | LinkedIn  | [linkedin/@tuannha](https://www.linkedin.com/in/tuannha) |
 | Portfolio | [TDev Portfolio](https://portfolio.tunbit.fyi)           |
 | Blog      | [TDev Blog](https://blog.tunbit.fyi)                     |
-| Other     | [My Wedding](https://wedding.tunbit.fyi)                 |
 
 ::: tip Need a quick response?
 DM me on Twitter or drop an email—I'm usually online between 8AM and 6PM (ICT).

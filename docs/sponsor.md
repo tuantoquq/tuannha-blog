@@ -43,11 +43,11 @@ Every article, checklist, and deep-dive on TDev Blog is fueled by countless cups
 
 ## ₿ Crypto Love (BSC)
 
-| Network        | Address                                      | QR                                                                 |
-| -------------- | -------------------------------------------- | ------------------------------------------------------------------ |
-| Bitcoin (BTC)  | `0x63afe487266d12449682acd64ac1b702432923e7` | <img src="/btc-bsc.jpg" alt="" width="280" class="sponsor-img" />  |
-| Ethereum (ETH) | `0x63afe487266d12449682acd64ac1b702432923e7` | <img src="/eth-bsc.jpg" alt="" width="280" class="sponsor-img" />  |
-| USDT (USDT)    | `0x63afe487266d12449682acd64ac1b702432923e7` | <img src="/usdt-bsc.jpg" alt="" width="280" class="sponsor-img" /> |
+| Network           | Address                                      | QR                                                                 |
+| ----------------- | -------------------------------------------- | ------------------------------------------------------------------ |
+| Bitcoin (BTC)     | `0x63afe487266d12449682acd64ac1b702432923e7` | <img src="/btc-bsc.jpg" alt="" width="280" class="sponsor-img" />  |
+| Ethereum (ETH)    | `0x63afe487266d12449682acd64ac1b702432923e7` | <img src="/eth-bsc.jpg" alt="" width="280" class="sponsor-img" />  |
+| Tether USD (USDT) | `0x63afe487266d12449682acd64ac1b702432923e7` | <img src="/usdt-bsc.jpg" alt="" width="280" class="sponsor-img" /> |
 
 ---
 
