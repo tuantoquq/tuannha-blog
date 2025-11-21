@@ -1,6 +1,7 @@
 ---
 outline: deep
 editLink: false
+lastUpdated: false
 ---
 
 # 💖 Support the Journey

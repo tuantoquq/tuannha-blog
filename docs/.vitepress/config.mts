@@ -6,6 +6,12 @@ export default defineConfig({
   title: 'TDev Blog',
   description:
     'A personal tech blog focused on sharing practical knowledge, real-world experience and tips in software development, devops, system architecture, and modern technologies.',
+  head: [
+    [
+      'link',
+      { rel: 'icon', href: '/logo.png', sizes: '64x64', type: 'image/png' },
+    ],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
