@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Backend Better
       link: /backend
+  image:
+    src: /favicon-512.png
+    alt: TDev Blog
 
 features:
   - title: Actionable DevOps Playbooks

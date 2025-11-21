@@ -20,6 +20,8 @@ Every article, checklist, and deep-dive on TDev Blog is fueled by countless cups
 
 ## 🏦 Bank Transfer
 
+- **USD Account**
+
 <img src="/bank-qr.jpg" alt="Bank QR" width="280" class="sponsor-img" />
 
 | Bank           | Detail                    |
@@ -29,6 +31,18 @@ Every article, checklist, and deep-dive on TDev Blog is fueled by countless cups
 | Account Number | 1043392276                |
 | Branch         | Ha Noi City               |
 | Swift Code     | BFTVVNVX                  |
+
+- **VND Account**
+
+<img src="/bank-qr-vnd.jpg" alt="Bank QR" width="280" class="sponsor-img" />
+
+| Bank           | Detail                    |
+| -------------- | ------------------------- |
+| Bank           | Vietcombank               |
+| Account Name   | **NGUYEN HOANG ANH TUAN** |
+| Account Number | 1043392224                |
+| Branch         | Ha Noi City               |
+| Service Point  | PGD Dao Tan               |
 
 ---
 
