@@ -4,18 +4,21 @@ layout: home
 
 hero:
   name: 'TDev Blog'
-  text: '<i>A personal tech blog focused on sharing practical knowledge, real-world experience and tips in software development, DevOps, system architecture, and modern technologies.</i>'
+  text: '<i>Focused on Software Development, DevOps, System Architecture, and Modern Technologies.</i>'
   tagline: Software Engineer Blogger
   actions:
     - theme: brand
-      text: Devops Knowledge
+      text: How to optimize in DevOps?
       link: /devops
+    - theme: alt
+      text: Backend Better
+      link: /backend
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Actionable DevOps Playbooks
+    details: Deep dives into Docker, Kubernetes, CI/CD, and real-world incident response tactics.
+  - title: Backend Architecture Patterns
+    details: API design conventions, performance troubleshooting, and production-ready code snippets.
+  - title: Production-First Mindset
+    details: Checklists, monitoring guides, and lessons learned from operating systems at scale.
 ---
