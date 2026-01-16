@@ -42,25 +42,44 @@ A deep dive into the subtle issues that silently slow down production services:
 - Mitigating slow I/O and external dependencies
 - Eliminating blocking logic on hot paths
 
+Try to follow the exact format of the previous section.
 ::: tip Why read it?
 Gain a checklist-driven approach to diagnosing latency spikes before they wake you up at 3 AM.
 :::
 
 ---
 
+### [Common NestJS Issues and How to Fix Them](/backend/nestjs-common-issues)
+
+A practical troubleshooting guide for NestJS developers covering:
+
+- Dependency injection and circular dependency resolution
+- Module configuration and provider scope issues
+- Request lifecycle, guards, and interceptor timing
+- Database integration with TypeORM and Prisma
+- Authentication strategy and JWT configuration
+- Testing patterns and mocking best practices
+- Production-ready error handling and performance optimization
+
+::: tip Why read it?
+Avoid common NestJS pitfalls and learn systematic approaches to debugging framework-specific issues.
+:::
+
+---
+
 ## 🎯 Topics Covered
 
-**API Design**
+### API Design
 
 - Resource modeling, versioning, idempotency
 - Pagination conventions and response schemas
 
-**Performance Engineering**
+### Performance Engineering
 
 - Query optimization, connection pools, caching layers
 - Observability-driven troubleshooting
 
-**Production Readiness**
+### Production Readiness
 
 - Health checks, error envelopes, monitoring hooks
 - Operational guardrails for stable releases

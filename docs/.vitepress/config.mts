@@ -74,6 +74,10 @@ export default defineConfig({
             text: 'Hidden Performance Issues',
             link: '/backend/common-problem',
           },
+          {
+            text: 'Common NestJS Issues',
+            link: '/backend/nestjs-common-issues',
+          },
         ],
       },
     ],
