@@ -60,6 +60,10 @@ export default defineConfig({
             link: '/devops/optimize-dockerfile',
           },
           { text: 'Kubernetes Debugging', link: '/devops/debug-k8s' },
+          {
+            text: 'Terraform Cheatsheet',
+            link: '/devops/terraform-aws-cheatsheet',
+          },
         ],
       },
       {

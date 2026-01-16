@@ -62,6 +62,23 @@ A systematic approach to diagnosing and resolving Kubernetes production issues. 
 
 ---
 
+### [Terraform Cheatsheet for AWS](/devops/terraform-aws-cheatsheet)
+
+A quick reference guide for essential Terraform commands, state management, and AWS resource patterns.
+
+- **Essential CLI Commands**: `init`, `plan`, `apply`, `import`, and debugging
+- **State Management**: Handling local and remote state effectively
+- **AWS Best Practices**: Provider configuration, folder structure, and security
+- **Core Resources**: Snippets for VPC, EC2, S3, and Security Groups
+
+::: tip Useful For
+DevOps engineers needing a quick syntax lookup or best practices refresher for Terraform on AWS.
+:::
+
+[Read Article →](/devops/terraform-aws-cheatsheet)
+
+---
+
 ## 🎯 Topics Covered
 
 ### Containerization
@@ -78,6 +95,12 @@ A systematic approach to diagnosing and resolving Kubernetes production issues. 
 - Resource management
 - Networking and services
 
+### Infrastructure as Code
+
+- Terraform CLI & State
+- AWS Resource Patterns
+- Best Practices & Security
+
 ### Best Practices
 
 - Performance optimization
@@ -90,7 +113,7 @@ A systematic approach to diagnosing and resolving Kubernetes production issues. 
 We're continuously adding new content. Upcoming topics include:
 
 - CI/CD pipeline optimization
-- Infrastructure as Code (Terraform, Ansible)
+- Infrastructure as Code (Ansible)
 - Monitoring and observability
 - Cloud-native architecture patterns
 - Security best practices
